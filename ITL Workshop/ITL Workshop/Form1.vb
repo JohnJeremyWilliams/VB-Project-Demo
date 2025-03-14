@@ -36,4 +36,25 @@ Public Class Form1
 
     End Sub
 
+    Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
+
+        ' Call the ClearFields method when Clear button is clicked 
+
+        ClearFields()
+
+    End Sub
+
+    Private Sub ClearFields()
+
+        ' Clear all input fields 
+
+        txtName.Clear()
+
+        txtEmail.Clear()
+
+        txtPhone.Clear()
+
+    End Sub
+
+
 End Class
