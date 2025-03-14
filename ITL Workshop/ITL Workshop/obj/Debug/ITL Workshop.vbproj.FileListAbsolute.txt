@@ -1,0 +1,12 @@
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\bin\Debug\ITL Workshop.exe.config
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\bin\Debug\ITL Workshop.exe
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\bin\Debug\ITL Workshop.pdb
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\bin\Debug\ITL Workshop.xml
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\obj\Debug\ITL Workshop.vbproj.AssemblyReference.cache
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\obj\Debug\ITL_Workshop.Form1.resources
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\obj\Debug\ITL_Workshop.Resources.resources
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\obj\Debug\ITL Workshop.vbproj.GenerateResource.cache
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\obj\Debug\ITL Workshop.vbproj.CoreCompileInputs.cache
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\obj\Debug\ITL Workshop.exe
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\obj\Debug\ITL Workshop.xml
+C:\Users\willi612\Downloads\ITL Workshop\ITL Workshop\obj\Debug\ITL Workshop.pdb
